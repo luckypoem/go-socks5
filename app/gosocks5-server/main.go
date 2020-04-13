@@ -7,7 +7,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/xiangrui2019/go_socks5"
+	"github.com/luckypoem/go-socks5"
 )
 
 func main() {
